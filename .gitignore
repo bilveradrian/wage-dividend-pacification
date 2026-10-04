@@ -1,0 +1,9 @@
+# Raw microdata are not redistributed
+data/raw/*
+!data/raw/README.md
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store

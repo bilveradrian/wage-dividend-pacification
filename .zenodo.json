@@ -1,0 +1,12 @@
+{
+  "title": "Replication package for: The Wage Dividend of Pacification: Violence Trajectories and Neighborhood Wages in Medellín, 2006–2018",
+  "upload_type": "software",
+  "description": "Code and processed neighborhood-level data to reproduce the tables and figures of the article 'The Wage Dividend of Pacification: Violence Trajectories and Neighborhood Wages in Medellín, 2006–2018'. ECV microdata are not redistributed and are available from the Alcaldía de Medellín.",
+  "creators": [
+    {"name": "Astorquiza Bustos, Bilver Adrián", "affiliation": "Universidad de Manizales", "orcid": "0000-0003-1079-6711"},
+    {"name": "López Estrada, Sebastián", "affiliation": "Pontificia Universidad Javeriana, Cali", "orcid": "0000-0002-7143-9518"}
+  ],
+  "license": "MIT",
+  "keywords": ["spatial wage disparities", "urban violence", "neighborhood recovery", "empirical Bayes", "spatial Durbin model", "Medellín"],
+  "language": "eng"
+}
